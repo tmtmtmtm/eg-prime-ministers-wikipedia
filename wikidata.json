@@ -1,0 +1,960 @@
+[
+  {
+    "item": {
+      "value": "Q224359",
+      "label": "Abd El Aziz Muhammad Hegazi"
+    },
+    "statement": "Q224359$81EC5906-2673-4927-A59F-22DB47B56C06"
+  },
+  {
+    "item": {
+      "value": "Q294765",
+      "label": "Shafiq Ahmad"
+    },
+    "statement": "Q294765$3C4CDA29-9031-4CF3-B1F8-81BD50F3A711"
+  },
+  {
+    "item": {
+      "value": "Q595285",
+      "label": "Nubar Pasha"
+    },
+    "replaces": {
+      "value": "Q2706504",
+      "label": "Mustafa Riad Pasha"
+    },
+    "replacedBy": {
+      "value": "Q403535",
+      "label": "Mustafa Fahmi Pasha"
+    },
+    "statement": "Q595285$6843A9AD-CB4F-4B42-83DF-C0119FEE45B1"
+  },
+  {
+    "item": {
+      "value": "Q699336",
+      "label": "Mahmoud Fawzi"
+    },
+    "statement": "Q699336$C15ABB0A-4F27-4E53-AFA2-F56C0FDD076D"
+  },
+  {
+    "item": {
+      "value": "Q3139180",
+      "label": "Muhammad Mahmoud Pasha"
+    },
+    "statement": "Q3139180$C1A65604-4E33-4E33-9B28-84909BD68A1C"
+  },
+  {
+    "item": {
+      "value": "Q4115732",
+      "label": "Muhammad Tawfiq Nasim Pasha"
+    },
+    "replaces": {
+      "value": "Q2456929",
+      "label": "Youssef Wahba"
+    },
+    "replacedBy": {
+      "value": "Q358528",
+      "label": "ʿAdli Yakan"
+    },
+    "statement": "Q4115732$480C8726-0E17-45AD-B536-ADC10027FBE8"
+  },
+  {
+    "item": {
+      "value": "Q4115896",
+      "label": "Hussein Fahri Pasha"
+    },
+    "statement": "Q4115896$5B5B10C3-1DEC-4746-A61D-863FFDF339AD"
+  },
+  {
+    "item": {
+      "value": "Q1391716",
+      "label": "Mamdouh Salem"
+    },
+    "statement": "Q1391716$BF8D4AAD-93E6-4E20-B9B8-4B94F248AB96"
+  },
+  {
+    "item": {
+      "value": "Q2456904",
+      "label": "Ismaʿil Sidqi"
+    },
+    "statement": "Q2456904$1D3CADFF-3AAF-46CE-8AE9-725CFE938F1C"
+  },
+  {
+    "item": {
+      "value": "Q3706384",
+      "label": "Said Pasha Zulfikar"
+    },
+    "statement": "Q3706384$aba277bd-25a0-4fc6-9e8d-ed8f6d92e074"
+  },
+  {
+    "item": {
+      "value": "Q16220886",
+      "label": "Mohammad Tawfiq Nasim Pacha"
+    },
+    "statement": "Q16220886$d31e54fb-15a4-4a49-8977-55f8c08d9f28"
+  },
+  {
+    "item": {
+      "value": "Q307231",
+      "label": "Abd Al-Halim Abu-Ghazala"
+    },
+    "statement": "Q307231$38F9287F-0D60-4D58-988F-91DAFC0CE098"
+  },
+  {
+    "item": {
+      "value": "Q403535",
+      "label": "Mustafa Fahmi Pasha"
+    },
+    "statement": "Q403535$6C15F99D-2121-4ECE-AAF7-2E23EDC2E8C0"
+  },
+  {
+    "item": {
+      "value": "Q20425456",
+      "label": "Nureddin Tarraf"
+    },
+    "statement": "Q20425456$8a8fed76-686c-49c7-a5aa-4df6eff58246"
+  },
+  {
+    "item": {
+      "value": "Q115486",
+      "label": "Mohamed Sherif Pasha"
+    },
+    "replaces": {
+      "value": "Q374306",
+      "label": "Tewfik Pasha"
+    },
+    "replacedBy": {
+      "value": "Q374306",
+      "label": "Tewfik Pasha"
+    },
+    "statement": "Q115486$980AF9D1-4631-403E-84DB-CD8150FC60E3"
+  },
+  {
+    "item": {
+      "value": "Q115486",
+      "label": "Mohamed Sherif Pasha"
+    },
+    "statement": "Q115486$E00C4BCC-D4FD-45F7-9969-3503A11AF943"
+  },
+  {
+    "item": {
+      "value": "Q365919",
+      "label": "Ahmed ‘Urabi"
+    },
+    "statement": "Q365919$837FC385-D825-475B-B3E1-ECF59B3B50E7"
+  },
+  {
+    "item": {
+      "value": "Q400643",
+      "label": "Ahmad Fuad Mohieddin"
+    },
+    "statement": "Q400643$77575ED6-9821-4F61-BB66-D984D8AA9BE8"
+  },
+  {
+    "item": {
+      "value": "Q446851",
+      "label": "Ali Sabri"
+    },
+    "statement": "Q446851$33DF814C-905C-439A-9FEE-56C43DEB3D4A"
+  },
+  {
+    "item": {
+      "value": "Q793859",
+      "label": "Aziz Sedki"
+    },
+    "statement": "Q793859$26B6FCD5-F4CD-4949-8510-427DE59EA8A3"
+  },
+  {
+    "item": {
+      "value": "Q1592085",
+      "label": "Hazem Al Beblawi"
+    },
+    "statement": "Q1592085$80E29CA8-D388-48B0-ADE5-C67A2F539677"
+  },
+  {
+    "item": {
+      "value": "Q2528405",
+      "label": "Mahmoud Sami el-Baroudi"
+    },
+    "statement": "Q2528405$871AE6D1-E694-42FC-8672-E1B4B95A30BE"
+  },
+  {
+    "item": {
+      "value": "Q2706504",
+      "label": "Mustafa Riad Pasha"
+    },
+    "statement": "Q2706504$28259880-01F7-42FA-B4C4-ACDC87477450"
+  },
+  {
+    "item": {
+      "value": "Q4115731",
+      "label": "Ibrahim Abdel Hadi Pasha"
+    },
+    "statement": "Q4115731$AF446D67-3CB1-4EA8-891D-C59ECB2ADDD0"
+  },
+  {
+    "item": {
+      "value": "Q5984523",
+      "label": "Ibrahim El-Gohary"
+    },
+    "statement": "Q5984523$B5A79A04-4558-4DA4-9CEA-BC8CCD81359B"
+  },
+  {
+    "item": {
+      "value": "Q1994270",
+      "label": "Husayn Rushdi"
+    },
+    "statement": "Q1994270$91239D74-A78D-4BD7-B041-9AE361D856F8"
+  },
+  {
+    "item": {
+      "value": "Q4115891",
+      "label": "Ahmad Ziwar"
+    },
+    "statement": "Q4115891$E9B18FA7-C7D6-4585-881D-BAA083C12A91"
+  },
+  {
+    "item": {
+      "value": "Q4116139",
+      "label": "Ahmad Najib al-Hilali"
+    },
+    "statement": "Q4116139$2AA86F93-13CE-4380-8D66-024E2A245A50"
+  },
+  {
+    "item": {
+      "value": "Q220296",
+      "label": "Ahmed Nazif"
+    },
+    "statement": "Q220296$02AD7963-E85D-4AD9-AC56-564DA1426154"
+  },
+  {
+    "item": {
+      "value": "Q358528",
+      "label": "ʿAdli Yakan"
+    },
+    "statement": "Q358528$A12C5644-5512-4690-BF41-D8F00B326197"
+  },
+  {
+    "item": {
+      "value": "Q1722834",
+      "label": "Kamal Hassan Ali"
+    },
+    "statement": "Q1722834$A97D050A-38C4-4E45-B726-F86B758C849E"
+  },
+  {
+    "item": {
+      "value": "Q2485397",
+      "label": "Raghib Pasha"
+    },
+    "statement": "Q2485397$3FE51E62-377C-42E0-8CE8-90F17E97A11F"
+  },
+  {
+    "item": {
+      "value": "Q2827585",
+      "label": "Ahmed Hassanein"
+    },
+    "statement": "Q2827585$c67946a0-d285-4fa6-8273-d0e9f323328b"
+  },
+  {
+    "item": {
+      "value": "Q4115734",
+      "label": "Hassan Sabry Pasha"
+    },
+    "statement": "Q4115734$1B676ACD-9AEE-4C75-B4B2-054A51CC59FC"
+  },
+  {
+    "item": {
+      "value": "Q4116118",
+      "label": "Hussein Sirri Pasha"
+    },
+    "statement": "Q4116118$0DBB77D7-D8FD-4814-9130-D785F288FA40"
+  },
+  {
+    "item": {
+      "value": "Q12236898",
+      "label": "Q12236898"
+    },
+    "statement": "Q12236898$511a977f-88f9-4b35-b009-a0e64a5f2e8d"
+  },
+  {
+    "item": {
+      "value": "Q15830552",
+      "label": "Ibrahim Mahlab"
+    },
+    "statement": "Q15830552$DBF65C0E-E5C7-4B84-8C5B-929028F1DBD6"
+  },
+  {
+    "item": {
+      "value": "Q262642",
+      "label": "Boutros Ghali"
+    },
+    "replaces": {
+      "value": "Q403535",
+      "label": "Mustafa Fahmi Pasha"
+    },
+    "replacedBy": {
+      "value": "Q3775896",
+      "label": "Muhammad Said Pasha"
+    },
+    "start": {
+      "value": "1908-11-12T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1910-02-21T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q262642$399e015b-4a0e-0ab5-cb55-48506630bab7",
+    "ordinal": "9"
+  },
+  {
+    "item": {
+      "value": "Q3775896",
+      "label": "Muhammad Said Pasha"
+    },
+    "replaces": {
+      "value": "Q262642",
+      "label": "Boutros Ghali"
+    },
+    "replacedBy": {
+      "value": "Q1994270",
+      "label": "Husayn Rushdi"
+    },
+    "start": {
+      "value": "1910-02-23T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1914-04-05T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3775896$CF9F8DB4-4626-4ECA-B363-9E4DB6D53800"
+  },
+  {
+    "item": {
+      "value": "Q3775896",
+      "label": "Muhammad Said Pasha"
+    },
+    "replaces": {
+      "value": "Q1994270",
+      "label": "Husayn Rushdi"
+    },
+    "replacedBy": {
+      "value": "Q2456929",
+      "label": "Youssef Wahba"
+    },
+    "start": {
+      "value": "1919-05-20T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1919-11-20T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3775896$4fb45e65-4bf0-92e9-15f7-9e4d3493ce84"
+  },
+  {
+    "item": {
+      "value": "Q2456929",
+      "label": "Youssef Wahba"
+    },
+    "start": {
+      "value": "1919-11-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1920-05-20T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q2456929$742862C8-9EB2-4E91-8DE8-65C8E39F1A71"
+  },
+  {
+    "item": {
+      "value": "Q4116115",
+      "label": "ʿAbd al-Khaliq Tharwat"
+    },
+    "start": {
+      "value": "1922-03-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1922-11-30T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4116115$E43E3382-62B7-4C33-97B4-6112AC3BFA4F"
+  },
+  {
+    "item": {
+      "value": "Q8046921",
+      "label": "Yahya Ibrahim Pasha"
+    },
+    "replaces": {
+      "value": "Q4115732",
+      "label": "Muhammad Tawfiq Nasim Pasha"
+    },
+    "replacedBy": {
+      "value": "Q328734",
+      "label": "Saad Zaghloul"
+    },
+    "start": {
+      "value": "1923-03-15T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1924-01-27T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q8046921$2BDEACC2-FA07-43CB-A8B0-3FB4AF35F0CB",
+    "ordinal": "16"
+  },
+  {
+    "item": {
+      "value": "Q328734",
+      "label": "Saad Zaghloul"
+    },
+    "replaces": {
+      "value": "Q8046921",
+      "label": "Yahya Ibrahim Pasha"
+    },
+    "replacedBy": {
+      "value": "Q4115891",
+      "label": "Ahmad Ziwar"
+    },
+    "start": {
+      "value": "1924-01-28T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1924-11-24T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q328734$E6BF5AA8-670A-4B0E-9CC7-3D28A58B8D49",
+    "ordinal": "32"
+  },
+  {
+    "item": {
+      "value": "Q4116115",
+      "label": "ʿAbd al-Khaliq Tharwat"
+    },
+    "start": {
+      "value": "1927-04-26T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1928-03-16T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4116115$eb3d9f80-4b13-166f-b8ec-baa5f84b0d69"
+  },
+  {
+    "item": {
+      "value": "Q403629",
+      "label": "Mustafa al-Nahhas"
+    },
+    "replaces": {
+      "value": "Q4116115",
+      "label": "ʿAbd al-Khaliq Tharwat"
+    },
+    "replacedBy": {
+      "value": "Q3139180",
+      "label": "Muhammad Mahmoud Pasha"
+    },
+    "start": {
+      "value": "1928-03-16T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1928-06-27T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q403629$342E8742-6A9E-4640-8547-F56CF5C0E21F"
+  },
+  {
+    "item": {
+      "value": "Q4115897",
+      "label": "Abdel Fattah Yahya Ibrahim Pasha"
+    },
+    "replaces": {
+      "value": "Q2456904",
+      "label": "Ismaʿil Sidqi"
+    },
+    "replacedBy": {
+      "value": "Q4115732",
+      "label": "Muhammad Tawfiq Nasim Pasha"
+    },
+    "start": {
+      "value": "1933-09-01T00:00:00Z",
+      "precision": "10"
+    },
+    "end": {
+      "value": "1934-11-01T00:00:00Z",
+      "precision": "10"
+    },
+    "statement": "Q4115897$87ED7563-FE75-4D3F-9932-75E5CD7D6144"
+  },
+  {
+    "item": {
+      "value": "Q733972",
+      "label": "ʿAli Mahir"
+    },
+    "replaces": {
+      "value": "Q4115732",
+      "label": "Muhammad Tawfiq Nasim Pasha"
+    },
+    "replacedBy": {
+      "value": "Q403629",
+      "label": "Mustafa al-Nahhas"
+    },
+    "start": {
+      "value": "1936-01-30T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1936-05-09T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q733972$0E7BBE33-AE29-47E9-9507-0891279A4313"
+  },
+  {
+    "item": {
+      "value": "Q733972",
+      "label": "ʿAli Mahir"
+    },
+    "replaces": {
+      "value": "Q3139180",
+      "label": "Muhammad Mahmoud Pasha"
+    },
+    "replacedBy": {
+      "value": "Q4115734",
+      "label": "Hassan Sabry Pasha"
+    },
+    "start": {
+      "value": "1939-08-18T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1940-06-28T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q733972$4e66289e-4601-c3f0-defc-2613c004e224"
+  },
+  {
+    "item": {
+      "value": "Q1572537",
+      "label": "Ahmad Mahir"
+    },
+    "start": {
+      "value": "1944-10-10T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1945-02-24T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1572537$1A95160D-BF8B-44F2-A611-7A3D440583EA"
+  },
+  {
+    "item": {
+      "value": "Q1391679",
+      "label": "Mahmud Fahmi al-Nuqrashi"
+    },
+    "start": {
+      "value": "1946-12-09T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1948-12-28T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1391679$317D29E1-2600-435D-86EA-A7F3182DF49F"
+  },
+  {
+    "item": {
+      "value": "Q733972",
+      "label": "ʿAli Mahir"
+    },
+    "replaces": {
+      "value": "Q403629",
+      "label": "Mustafa al-Nahhas"
+    },
+    "replacedBy": {
+      "value": "Q4116139",
+      "label": "Ahmad Najib al-Hilali"
+    },
+    "start": {
+      "value": "1952-01-27T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1952-03-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q733972$f4a8c628-405a-915d-736a-00048eb91752"
+  },
+  {
+    "item": {
+      "value": "Q733972",
+      "label": "ʿAli Mahir"
+    },
+    "replaces": {
+      "value": "Q4116139",
+      "label": "Ahmad Najib al-Hilali"
+    },
+    "replacedBy": {
+      "value": "Q104392",
+      "label": "Mohamed Naguib"
+    },
+    "start": {
+      "value": "1952-07-23T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1952-09-07T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q733972$785a8235-4a5e-6248-06b5-1b91624e2aa1"
+  },
+  {
+    "item": {
+      "value": "Q104392",
+      "label": "Mohamed Naguib"
+    },
+    "replacedBy": {
+      "value": "Q39524",
+      "label": "Gamal Abdel Nasser"
+    },
+    "start": {
+      "value": "1954-03-08T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1954-04-18T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q104392$C6660AE6-B9FD-4E02-ACF2-DD17A5EFBD15",
+    "ordinal": "30"
+  },
+  {
+    "item": {
+      "value": "Q144615",
+      "label": "Zakaria Mohieddin"
+    },
+    "start": {
+      "value": "1965-10-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1966-09-10T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q144615$C3073EC7-1776-4041-93A6-47BEA38AFDAC"
+  },
+  {
+    "item": {
+      "value": "Q983586",
+      "label": "Muhammad Sedki Sulayman"
+    },
+    "start": {
+      "value": "1966-09-10T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1967-06-19T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q983586$0134D925-15B6-446A-8368-10A634EEEFFA"
+  },
+  {
+    "item": {
+      "value": "Q39524",
+      "label": "Gamal Abdel Nasser"
+    },
+    "replaces": {
+      "value": "Q983586",
+      "label": "Muhammad Sedki Sulayman"
+    },
+    "replacedBy": {
+      "value": "Q699336",
+      "label": "Mahmoud Fawzi"
+    },
+    "start": {
+      "value": "1967-06-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1970-09-28T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q39524$67C2DE25-81E1-4AF3-81EE-61AF60D6788E"
+  },
+  {
+    "item": {
+      "value": "Q403740",
+      "label": "Mustafa Khalil"
+    },
+    "replaces": {
+      "value": "Q1391716",
+      "label": "Mamdouh Salem"
+    },
+    "replacedBy": {
+      "value": "Q42013",
+      "label": "Anwar Sadat"
+    },
+    "start": {
+      "value": "1978-10-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1980-05-15T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q403740$4C0B6E5D-E0BE-478C-A57E-0059FAAC49A9"
+  },
+  {
+    "item": {
+      "value": "Q42013",
+      "label": "Anwar Sadat"
+    },
+    "replaces": {
+      "value": "Q403740",
+      "label": "Mustafa Khalil"
+    },
+    "replacedBy": {
+      "value": "Q34105",
+      "label": "Hosni Mubarak"
+    },
+    "start": {
+      "value": "1980-05-15T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1981-10-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q42013$85306869-2D0D-47D4-A69A-0A555AFCB85E"
+  },
+  {
+    "item": {
+      "value": "Q34105",
+      "label": "Hosni Mubarak"
+    },
+    "replaces": {
+      "value": "Q42013",
+      "label": "Anwar Sadat"
+    },
+    "replacedBy": {
+      "value": "Q400643",
+      "label": "Ahmad Fuad Mohieddin"
+    },
+    "start": {
+      "value": "1981-10-07T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1982-01-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q34105$B1DBBED1-9F11-4516-BAEA-011A11A99D70"
+  },
+  {
+    "item": {
+      "value": "Q1391705",
+      "label": "Ali Lutfi Mahmud"
+    },
+    "replaces": {
+      "value": "Q1722834",
+      "label": "Kamal Hassan Ali"
+    },
+    "replacedBy": {
+      "value": "Q755840",
+      "label": "Atef Sedki"
+    },
+    "start": {
+      "value": "1985-09-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1986-11-09T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1391705$F36D92AF-B7BB-4195-8D1A-C69CC809C809"
+  },
+  {
+    "item": {
+      "value": "Q755840",
+      "label": "Atef Sedki"
+    },
+    "replaces": {
+      "value": "Q1391705",
+      "label": "Ali Lutfi Mahmud"
+    },
+    "replacedBy": {
+      "value": "Q365922",
+      "label": "Kamal Ganzouri"
+    },
+    "start": {
+      "value": "1986-11-10T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1996-01-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q755840$F1F23822-9490-4BBC-A11D-02E5446EBCC7",
+    "ordinal": "45"
+  },
+  {
+    "item": {
+      "value": "Q365922",
+      "label": "Kamal Ganzouri"
+    },
+    "replaces": {
+      "value": "Q755840",
+      "label": "Atef Sedki"
+    },
+    "replacedBy": {
+      "value": "Q559232",
+      "label": "Atef Ebeid"
+    },
+    "start": {
+      "value": "1996-01-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1999-10-05T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q365922$E145311A-13E3-43D1-A0D4-25B7CC7EEACB"
+  },
+  {
+    "item": {
+      "value": "Q559232",
+      "label": "Atef Ebeid"
+    },
+    "replaces": {
+      "value": "Q365922",
+      "label": "Kamal Ganzouri"
+    },
+    "replacedBy": {
+      "value": "Q220296",
+      "label": "Ahmed Nazif"
+    },
+    "start": {
+      "value": "1999-10-05T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2004-07-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q559232$12FDEA53-114D-45D8-AB94-A52F21549854",
+    "ordinal": "47"
+  },
+  {
+    "item": {
+      "value": "Q57680",
+      "label": "Essam Sharaf"
+    },
+    "replaces": {
+      "value": "Q294765",
+      "label": "Shafiq Ahmad"
+    },
+    "replacedBy": {
+      "value": "Q365922",
+      "label": "Kamal Ganzouri"
+    },
+    "start": {
+      "value": "2011-03-03T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2011-11-21T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q57680$FDB9134F-2164-4A90-BAD1-DAADB6084C3F"
+  },
+  {
+    "item": {
+      "value": "Q365922",
+      "label": "Kamal Ganzouri"
+    },
+    "replaces": {
+      "value": "Q57680",
+      "label": "Essam Sharaf"
+    },
+    "replacedBy": {
+      "value": "Q57728",
+      "label": "Hesham Qandil"
+    },
+    "start": {
+      "value": "2011-12-07T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2012-08-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q365922$223C3BA1-DF3D-4B53-8EED-D5EE98A5071B",
+    "ordinal": "46"
+  },
+  {
+    "item": {
+      "value": "Q57728",
+      "label": "Hesham Qandil"
+    },
+    "replaces": {
+      "value": "Q365922",
+      "label": "Kamal Ganzouri"
+    },
+    "replacedBy": {
+      "value": "Q1592085",
+      "label": "Hazem Al Beblawi"
+    },
+    "start": {
+      "value": "2012-08-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2013-07-03T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q57728$F261CCA9-8DC0-4378-97D7-B56785DC8E30"
+  },
+  {
+    "item": {
+      "value": "Q16250142",
+      "label": "Sherif Ismail"
+    },
+    "replaces": {
+      "value": "Q15830552",
+      "label": "Ibrahim Mahlab"
+    },
+    "replacedBy": {
+      "value": "Q54901515",
+      "label": "Moustafa Madbouly"
+    },
+    "start": {
+      "value": "2015-09-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2018-06-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q16250142$b53ee3e1-4a28-d1fd-956d-3c9b95b628e0"
+  },
+  {
+    "item": {
+      "value": "Q54901515",
+      "label": "Moustafa Madbouly"
+    },
+    "replaces": {
+      "value": "Q16250142",
+      "label": "Sherif Ismail"
+    },
+    "start": {
+      "value": "2018-06-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q54901515$9619894b-4ec1-7af8-370e-c2c94201874a"
+  }
+]
