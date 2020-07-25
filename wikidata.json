@@ -1,57 +1,6 @@
 [
   {
     "item": {
-      "value": "Q595285",
-      "label": "Nubar Pasha"
-    },
-    "replaces": {
-      "value": "Q2706504",
-      "label": "Mustafa Riad Pasha"
-    },
-    "replacedBy": {
-      "value": "Q403535",
-      "label": "Mustafa Fahmi Pasha"
-    },
-    "statement": "Q595285$6843A9AD-CB4F-4B42-83DF-C0119FEE45B1"
-  },
-  {
-    "item": {
-      "value": "Q699336",
-      "label": "Mahmoud Fawzi"
-    },
-    "statement": "Q699336$C15ABB0A-4F27-4E53-AFA2-F56C0FDD076D"
-  },
-  {
-    "item": {
-      "value": "Q3139180",
-      "label": "Muhammad Mahmoud Pasha"
-    },
-    "statement": "Q3139180$C1A65604-4E33-4E33-9B28-84909BD68A1C"
-  },
-  {
-    "item": {
-      "value": "Q4115732",
-      "label": "Muhammad Tawfiq Nasim Pasha"
-    },
-    "replaces": {
-      "value": "Q2456929",
-      "label": "Youssef Wahba"
-    },
-    "replacedBy": {
-      "value": "Q358528",
-      "label": "ʿAdli Yakan"
-    },
-    "statement": "Q4115732$480C8726-0E17-45AD-B536-ADC10027FBE8"
-  },
-  {
-    "item": {
-      "value": "Q2456904",
-      "label": "Ismaʿil Sidqi"
-    },
-    "statement": "Q2456904$1D3CADFF-3AAF-46CE-8AE9-725CFE938F1C"
-  },
-  {
-    "item": {
       "value": "Q3706384",
       "label": "Said Pasha Zulfikar"
     },
@@ -73,46 +22,10 @@
   },
   {
     "item": {
-      "value": "Q403535",
-      "label": "Mustafa Fahmi Pasha"
-    },
-    "statement": "Q403535$6C15F99D-2121-4ECE-AAF7-2E23EDC2E8C0"
-  },
-  {
-    "item": {
       "value": "Q20425456",
       "label": "Nureddin Tarraf"
     },
     "statement": "Q20425456$8a8fed76-686c-49c7-a5aa-4df6eff58246"
-  },
-  {
-    "item": {
-      "value": "Q115486",
-      "label": "Mohamed Sherif Pasha"
-    },
-    "replaces": {
-      "value": "Q374306",
-      "label": "Tewfik Pasha"
-    },
-    "replacedBy": {
-      "value": "Q374306",
-      "label": "Tewfik Pasha"
-    },
-    "statement": "Q115486$980AF9D1-4631-403E-84DB-CD8150FC60E3"
-  },
-  {
-    "item": {
-      "value": "Q115486",
-      "label": "Mohamed Sherif Pasha"
-    },
-    "statement": "Q115486$E00C4BCC-D4FD-45F7-9969-3503A11AF943"
-  },
-  {
-    "item": {
-      "value": "Q2706504",
-      "label": "Mustafa Riad Pasha"
-    },
-    "statement": "Q2706504$28259880-01F7-42FA-B4C4-ACDC87477450"
   },
   {
     "item": {
@@ -123,38 +36,10 @@
   },
   {
     "item": {
-      "value": "Q1994270",
-      "label": "Husayn Rushdi"
-    },
-    "statement": "Q1994270$91239D74-A78D-4BD7-B041-9AE361D856F8"
-  },
-  {
-    "item": {
-      "value": "Q4116139",
-      "label": "Ahmad Najib al-Hilali"
-    },
-    "statement": "Q4116139$2AA86F93-13CE-4380-8D66-024E2A245A50"
-  },
-  {
-    "item": {
-      "value": "Q358528",
-      "label": "ʿAdli Yakan"
-    },
-    "statement": "Q358528$A12C5644-5512-4690-BF41-D8F00B326197"
-  },
-  {
-    "item": {
       "value": "Q2827585",
       "label": "Ahmed Hassanein"
     },
     "statement": "Q2827585$c67946a0-d285-4fa6-8273-d0e9f323328b"
-  },
-  {
-    "item": {
-      "value": "Q4116118",
-      "label": "Hussein Sirri Pasha"
-    },
-    "statement": "Q4116118$0DBB77D7-D8FD-4814-9130-D785F288FA40"
   },
   {
     "item": {
