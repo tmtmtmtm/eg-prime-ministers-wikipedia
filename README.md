@@ -61,10 +61,18 @@ Step 7: Add missing qualifiers
 
 90 additions made as https://tools.wmflabs.org/editgroups/b/wikibase-cli/aed2eb3ae973d/
 
+Step 8: Clean up bare P39s
+==========================
+
+    wd sparql bare-and-not-bare-P39.js Q1571396 | jq -r '.[] | "\(.bare_ps)"' | sort | uniq | 
+      wd rc --batch --summary "Remove bare P39s where qualified one exists"
+
+-> https://tools.wmflabs.org/editgroups/b/wikibase-cli/f25e9ce5bbfa8/
+
 Step 8: Refresh the Tracking Page
 =================================
 
-New version at https://www.wikidata.org/w/index.php?title=Talk:Q852448&oldid=1238299312
+New version at https://www.wikidata.org/w/index.php?title=Talk:Q1571396&oldid=1238516380
 
 I was deliberately only taking the low-hanging fruit of
 easily-accessible start+end dates here, so there's still quite a bit of
