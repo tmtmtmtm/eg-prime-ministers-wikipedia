@@ -45,6 +45,7 @@ class HolderItem < WikipediaTableRow
 
   field :end_date do
     return if tds[4].text.include? 'Incumbent'
+
     Date.parse tds[4].text
   end
 
@@ -55,7 +56,7 @@ class HolderItem < WikipediaTableRow
   end
 
   def empty?
-    name.to_s == ''
+    tds[0].css('img/@alt').text.include? 'Flag'
   end
 end
 
